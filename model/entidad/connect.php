@@ -1,7 +1,7 @@
 <?php
-class connect {
-    private $path;
+class connect{
     protected $data;
+    private $path;
 
     public function __construct($path){
         $this->path = $path;

@@ -6,6 +6,6 @@
  }
  spl_autoload_register('autoload');
 
-$obj = new users("carlos", 1234, "../db.json");
-echo json_encode($obj->getUsuario());
+ $obj = new users("jose", "456", "../db.json");
+echo json_encode($obj->getUser());
 ?>

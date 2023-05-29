@@ -1,15 +1,15 @@
 {
     "users": [
         {
-            "usuario": "carlos",
-            "nombre": "villafrades",
-            "contrasena": 1234,
+            "user": "carlos",
+            "name": "villafrades",
+            "password": 1234,
             "edad":22
         },
         {
-            "usuario": "jose",
-            "nombre": "chepito",
-            "contrasena": 456,
+            "user": "jose",
+            "name": "chepito",
+            "password": 456,
             "edad":28
         }
     ]
