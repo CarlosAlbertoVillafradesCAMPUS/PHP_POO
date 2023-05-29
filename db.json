@@ -3,13 +3,13 @@
         {
             "usuario": "carlos",
             "nombre": "villafrades",
-            "contraseña": 1234,
+            "contrasena": 1234,
             "edad":22
         },
         {
             "usuario": "jose",
             "nombre": "chepito",
-            "contraseña": 456,
+            "contrasena": 456,
             "edad":28
         }
     ]
